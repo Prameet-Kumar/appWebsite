@@ -1,0 +1,25 @@
+.jumbotron{
+    /* background-image: url(images/background.jpg); */
+    background-size: cover;
+    background-image: linear-gradient(rgba(244, 244, 249, 0.3), rgba(148, 172, 99, 0.7)),
+    url("images/background.jpg");
+    text-align: center;
+    padding-top: 90px;
+}
+.center{
+    text-align: center;
+   
+}
+nav{
+    position: fixed;
+}
+#footer{
+    padding-top: 40px;
+    background-image: linear-gradient(rgb(97, 165, 238),rgb(32, 50, 5));
+}
+#appSummary{
+    padding-top: 52px;
+}
+body{
+    position: relative;
+}
